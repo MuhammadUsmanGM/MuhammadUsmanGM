@@ -24,6 +24,25 @@
 
 ---
 
+## 📚 Currently Learning
+- **AI Agent Development** 🤖
+- **Advanced Python Programming** 🐍
+- **C++ for Systems Programming** 💻
+
+---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadUsmanGM&theme=radical&column=3&margin-w=15&margin-h=15)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=tokyonight)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
