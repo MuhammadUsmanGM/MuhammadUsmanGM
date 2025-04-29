@@ -33,7 +33,8 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadUsmanGM&theme=radical&column=3&margin-w=15&margin-h=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=MuhammadUsmanGM&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)
+
 
 ---
 
