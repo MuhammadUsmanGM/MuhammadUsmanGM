@@ -1,10 +1,12 @@
 # Hey there! 👋 I'm Muhammad Usman
 
-### 🚀 Backend Developer | AI Enthusiast | Tech Explorer
+### 🚀 Backend Engineer | AI Agent Builder | Performance-First Developer
+
+
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-- 🔥 Passionate about building **high-performance backends** with **UV** and **Python**
+- 🔥 Passionate about building **high-performance backends** with **Python** and **Uvicorn**
 - 🧠 Exploring the world of **AI agent development** and **autonomous systems**
 - 📚 Currently learning **Advanced Python**, **C++**, and **AI agent architectures**
 - 🛠️ Building apps **without Streamlit** for faster, lightweight performance
@@ -56,6 +58,7 @@
 ## 🌍 Let's Connect
 
 - 📧 Email: muhammadusman5965etc@gmail.com
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:muhammadusman5965etc@gmail.com)
 - 🌐 Portfolio: _Coming soon!_
 
 ---
