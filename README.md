@@ -38,16 +38,16 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.credly.com/badges/79bd5417-e754-46e8-92e8-a2eb7016489d/public_url">
-        <img src="https://images.credly.com/size/110x110/images/4fcf1d71-fb90-4fbf-8679-5c33b2cd16e5/image.png" alt="Introduction to Cybersecurity" />
+      <a href="https://www.credly.com/badges/79bd5417-e754-46e8-92e8-a2eb7016489d/public_url" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="110" />
         <br />
         <strong>Introduction to Cybersecurity</strong><br />
         Cisco
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/4a15b067-656e-4891-869a-e7db0a0cba64/public_url">
-        <img src="https://images.credly.com/size/110x110/images/e7fdf0a6-429d-4a88-a388-e2523d87750c/image.png" alt="C++ Essentials" />
+      <a href="https://www.credly.com/badges/4a15b067-656e-4891-869a-e7db0a0cba64/public_url" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/size/340x340/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png" alt="C++ Essentials" width="110" />
         <br />
         <strong>C++ Essentials</strong><br />
         Cisco
@@ -55,6 +55,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
