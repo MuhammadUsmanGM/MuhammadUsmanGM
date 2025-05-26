@@ -62,13 +62,6 @@
 
 ---
 
-## 🚀 Projects
-
-### [ChatOrbit](https://github.com/MuhammadUsmanGM/Chat_Bot)  
-A Streamlit-powered AI chatbot that lets users interact with multiple cutting-edge language models including Gemini 2.0, DeepSeek R1, Meta-LLaMA 3.1, and Mixtral-8x7B from Together AI.  
-Switch models in real-time, ask questions, and get high-quality answers through a clean and interactive UI.
-
----
 
 ## 🏆 GitHub Trophies
 
