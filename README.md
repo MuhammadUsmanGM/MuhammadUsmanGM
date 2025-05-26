@@ -23,7 +23,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Chainlit-2D79C7?style=for-the-badge&logo=https://raw.githubusercontent.com/Chainlit/chainlit/main/docs/static/img/logo.png&logoColor=white)
+<a href="https://chainlit.io" target="_blank" style="display: inline-flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Chainlit/chainlit/main/docs/static/img/logo.png" alt="Chainlit Logo" width="24" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/Chainlit-2D79C7?style=for-the-badge&logoColor=white" alt="Chainlit Badge" />
+</a>
+
 
 
 
