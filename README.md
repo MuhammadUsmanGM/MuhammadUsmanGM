@@ -23,6 +23,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDUwIDUwIiB3aWR0aD0iMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9IndoaXRlIj48Y2lyY2xlIGN4PSIyNSIgY3k9IjI1IiByPSIyNSIgZmlsbD0iI0ZGMDAwMCIvPjxwYXRoIGQ9Ik0yNSAzMGExMCAxMCAwIDExMTAuMDAwMDEtMTAuMDAwMDFBMTAuMDAwMDEgMTAuMDAwMDEgMCAwMDI1IDMweiIgZmlsbD0iI0ZGRiIvPjwvZz48L3N2Zz4=)
+
 
 ---
 
