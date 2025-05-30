@@ -55,9 +55,16 @@
         Cisco
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/5524e8cc-434d-4cf4-8d0a-fe661260c884/public_url" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/size/340x340/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" alt="Linux Essentials" width="110" />
+        <br />
+        <strong>Linux Essentials</strong><br />
+        Cisco
+      </a>
+    </td>
   </tr>
 </table>
-
 
 
 ---
