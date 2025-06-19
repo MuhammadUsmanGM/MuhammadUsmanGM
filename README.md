@@ -96,8 +96,7 @@
 
 ## 🌍 Let's Connect
 
-- 📧 Email:muhammadusman5965etc@gmail.com
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:muhammadusman5965etc@gmail.com)
+- 📧[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:muhammadusman5965etc@gmail.com)
 - 🌐 Portfolio: _Coming soon!_
 
 ---
