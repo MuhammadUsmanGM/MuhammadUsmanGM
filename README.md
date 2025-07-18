@@ -65,7 +65,7 @@
     </td>
     <td align="center">
       <a href="https://www.life-global.org/certificate/4731ebfb-b784-43df-b5f5-8a0b95cd8bcb" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/xCWjzdht/hp-life-logo.png" alt="HP LIFE Logo" width="110" />
+        <img src="https://raw.githubusercontent.com/musman365/assets/main/hp-life-logo.png" alt="HP LIFE Logo" width="110" />
         <br />
         <strong>Intro to AI</strong><br />
         HP LIFE
