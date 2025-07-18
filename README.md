@@ -65,7 +65,7 @@
     </td>
     <td align="center">
       <a href="https://www.life-global.org/certificate/4731ebfb-b784-43df-b5f5-8a0b95cd8bcb" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HP_logo_2012.svg/512px-HP_logo_2012.svg.png" alt="HP LIFE Logo" width="110" />
+        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="Intro to AI" width="110" />
         <br />
         <strong>Intro to AI</strong><br />
         HP LIFE
@@ -73,6 +73,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
