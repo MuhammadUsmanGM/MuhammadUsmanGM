@@ -1,9 +1,8 @@
 # Hey there! 👋 I'm Muhammad Usman
-### 👀 Profile Stats
+
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadUsmanGM&color=blue)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuhammadUsmanGM.MuhammadUsmanGM)
 
----
 
 ### 🚀 Backend Engineer | AI Agent Builder | Performance-First Developer
 
