@@ -28,13 +28,6 @@
 
 ---
 
-## 📚 Currently Learning
-- **AI Agent Development** 🤖
-- **Advanced Python Programming** 🐍
-- **C++ for Systems Programming** 💻
-
----
-
 ## 🎓 Certifications
 
 <table>
@@ -80,7 +73,7 @@
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eta-three-40.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=blue-green)
 
 ---
 
