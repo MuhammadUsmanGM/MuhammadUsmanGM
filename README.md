@@ -63,14 +63,6 @@
         Cisco
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.life-global.org/certificate/4731ebfb-b784-43df-b5f5-8a0b95cd8bcb" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="Intro to AI" width="110" />
-        <br />
-        <strong>Intro to AI</strong><br />
-        HP LIFE
-      </a>
-    </td>
   </tr>
 </table>
 
@@ -118,6 +110,10 @@
 
 ![Usman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadUsmanGM&theme=tokyo-night)
 
+---
 
+### 👀 Profile Stats
+![Profile views](https://komarev.com/ghpvc/?username=MuhammadUsmanGM&color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuhammadUsmanGM.MuhammadUsmanGM)
 
-
+---
