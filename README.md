@@ -36,6 +36,17 @@
 
 ---
 
+## 🌍 Let's Connect
+
+- [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:muhammadusman5965etc@gmail.com)
+- 🌐 **Portfolio:** _Coming soon!_
+
+---
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats-eta-three-40.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=blue-green)
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -44,11 +55,6 @@
 
 ---
 
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats-eta-three-40.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=blue-green)
-
----
 
 ## 📈 GitHub Stats
 
@@ -61,20 +67,8 @@
 
 ---
 
-## 🌍 Let's Connect
-
-- [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:muhammadusman5965etc@gmail.com)
-- 🌐 **Portfolio:** _Coming soon!_
-
----
 
 > _“Great code is poetry in motion.”_ ✨
-
----
-
-## 🔥 Activity Graph
-
-![Usman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadUsmanGM&theme=tokyo-night)
 
 ---
 
