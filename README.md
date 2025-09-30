@@ -8,7 +8,7 @@
 
 
 
-<img align="right" alt="Coding" width="300" src="https://app.lottiefiles.com/share/90bbb31e-6bb1-4158-ba3b-9909855fd84d" />
+<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/0jzzr3Zw/Programming-Computer.gif" />
 
 - 🔥 Passionate about building **high-performance backends** with **Python** and **Uvicorn**
 - 🧠 Exploring the world of **AI agent development** and **autonomous systems**
