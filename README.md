@@ -8,7 +8,7 @@
 
 
 
-<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/0jzzr3Zw/Programming-Computer.gif" />
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 🔥 Passionate about building **high-performance backends** with **Python** and **Uvicorn**
 - 🧠 Exploring the world of **AI agent development** and **autonomous systems**
