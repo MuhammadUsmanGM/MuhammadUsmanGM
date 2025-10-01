@@ -44,7 +44,7 @@
 ---
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&theme=radical&layout=compact&hide=)
+![Top Languages](https://github-readme-stats-rqkk.vercel.app/api/top-langs/?username=MuhammadUsmanGM&theme=radical&layout=compact)
 
 ---
 
