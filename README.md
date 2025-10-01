@@ -44,7 +44,7 @@
 ---
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats-eta-three-40.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=blue-green)
+![Top Langs](https://github-readme-stats-eta-three-40.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=blue-green&cache_seconds=0)
 
 ---
 
