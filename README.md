@@ -44,7 +44,7 @@
 ---
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats-rqkk.vercel.app/)
+![Top Languages](https://github-readme-stats-rqkk-git-master-muhammadusmangms-projects.vercel.app/)
 
 ---
 
