@@ -4,21 +4,22 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuhammadUsmanGM.MuhammadUsmanGM)
 
 
-### 🚀 Backend Engineer | AI Agent Builder | Performance-First Developer
+### 🚀 Backend Engineer | AI Agent Builder | Frontend Developer | Performance-First Developer
 
 
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 🔥 Passionate about building **high-performance backends** with **Python** and **Uvicorn**
+- 🎨 Crafting **modern user interfaces** with **React**, **Tailwind CSS**, and responsive design
 - 🧠 Exploring the world of **AI agent development** and **autonomous systems**
 - 📚 Currently learning **Advanced Python**, **C++**, and **AI agent architectures**
 - 🛠️ Building apps **without Streamlit** for faster, lightweight performance
 - 🎯 Focused on **performance**, **clean architecture**, and **problem-solving**
-
 ---
 
 ## 🛠️ Tech Stack & Tools
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadUsmanGM)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
