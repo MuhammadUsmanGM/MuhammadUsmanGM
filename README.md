@@ -1,10 +1,10 @@
-#[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&size=30&duration=4000&color=00B4D8&lines=Hey+there!+👋+I'm+Muhammad+Usman;A+Developer+Who+Loves+to+Build;Agentic+AI+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&size=30&duration=4000&color=00B4D8&lines=Hey+there!+👋+I'm+Muhammad+Usman;A+Developer+Who+Loves+to+Build;Agentic+AI+Developer)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadUsmanGM&color=blue)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuhammadUsmanGM.MuhammadUsmanGM)
 
 
-###[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&size=26&duration=4000&color=00FF7F&lines=🚀+Backend+Engineer;🤖+AI+Agent+Builder;💻+Frontend+Developer;⚡+Performance-First+Developer)](https://git.io/typing-svg)
+### 🚀 Backend Engineer | AI Agent Builder | Frontend Developer | Performance-First Developer
 
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
@@ -77,4 +77,4 @@
 
 ---
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&size=26&duration=4000&color=00FF7F&lines=🚀+Backend+Engineer;🤖+AI+Agent+Builder;💻+Frontend+Developer;⚡+Performance-First+Developer)](https://git.io/typing-svg)
