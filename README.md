@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00B4D8&lines=Hey+there!+👋+I'm+Muhammad+Usman;A+Developer+Who+Loves+to+Build;Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&size=30&duration=4000&color=00B4D8&lines=Hey+there!+👋+I'm+Muhammad+Usman;A+Developer+Who+Loves+to+Build;Agentic+AI+Developer)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadUsmanGM&color=blue)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuhammadUsmanGM.MuhammadUsmanGM)
