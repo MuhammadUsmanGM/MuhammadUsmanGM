@@ -46,7 +46,17 @@
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:muhammadusman5965etc@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://portfolio-ten-alpha-04swj5jcl3.vercel.app/)
 
+
 ---
+
+## 📰 Subscribe to Newsletter  
+Stay updated with the latest trends and breakthroughs in the **AI industry**.  
+No spam — just valuable insights and updates!  
+
+[![Subscribe](https://img.shields.io/badge/Subscribe-Now-blue?style=for-the-badge&logo=gmail)](https://news-letter-umber-five.vercel.app/)
+
+---
+
 ## 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&theme=radical&layout=compact)
