@@ -93,5 +93,5 @@ No spam — just valuable insights and updates!
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&size=26&duration=4000&color=00FF7F&lines=🚀+Backend+Engineer;🤖+AI+Agent+Builder;💻+Frontend+Developer+(React+%26+Next.js+%26+Tailwind+CSS);⚡+Performance-First+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&size=26&duration=4000&color=00FF7F&lines=🚀+Backend+Engineer;🤖+AI+Agent+Builder;💻+Frontend+Developer+(React+%26+Next.js+%26);⚡+Performance-First+Developer)](https://git.io/typing-svg)
 
