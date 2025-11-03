@@ -4,17 +4,22 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuhammadUsmanGM.MuhammadUsmanGM)
 
 
-### 🚀 Backend Engineer | AI Agent Builder | Frontend Developer | Performance-First Developer
+###🚀 Backend & Frontend Engineer | AI Agent Builder | Performance-First Developer
 
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-- 🔥 Passionate about building **high-performance backends** with **Python** and **Uvicorn**
-- 🎨 Crafting **modern user interfaces** with **React**, **Tailwind CSS**, and responsive design
-- 🧠 Exploring the world of **AI agent development** and **autonomous systems**
-- 📚 Currently learning **Advanced Python**, **C++**, and **AI agent architectures**
-- 🛠️ Building apps **without Streamlit** for faster, lightweight performance
-- 🎯 Focused on **performance**, **clean architecture**, and **problem-solving**
+- 🔥 Passionate about building high-performance backends with Python, FastAPI, and Uvicorn
+
+- 🎨 Crafting modern, responsive interfaces with React, Next.js, and Tailwind CSS
+
+- 🧠 Exploring AI agent development and autonomous systems
+
+- 📚 Currently deepening knowledge in Advanced Python, C++, and AI agent architectures
+
+- 🛠️ Building lightweight, optimized apps without Streamlit for maximum performance
+
+- 🎯 Focused on performance, clean architecture, and solving complex problems
 ---
 
 ## 🛠️ Tech Stack & Tools
