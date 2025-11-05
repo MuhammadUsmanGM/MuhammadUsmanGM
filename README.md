@@ -50,7 +50,7 @@
 
 ## 🌍 Let's Connect
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:muhammadusman5965etc@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://portfolio-ten-alpha-04swj5jcl3.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://portfolio-o4hs.vercel.app/)
 
 
 ---
