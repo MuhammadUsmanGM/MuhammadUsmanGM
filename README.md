@@ -97,7 +97,7 @@ Stay updated with the latest trends and insights in AI and automation.
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-rqkk.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=tokyonight" />
 </p>
 
 ---
