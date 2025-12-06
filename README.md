@@ -16,28 +16,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-### 🎓 [AI-Powered Educational Platform](https://github.com/MuhammadUsmanGM/physical-ai-hackathon)
-Interactive textbook with RAG-based chatbot for Physical AI & Robotics education
-- **Tech:** Docusaurus, FastAPI, Qdrant, Google Gemini, Neon Postgres
-- **Features:** RAG chatbot, text selection Q&A, personalized learning, user authentication
-- **[Live Demo](https://muhammadusmangm.github.io/physical-ai-hackathon/)**
-
-### 📧 [AI Newsletter Automation System](https://github.com/MuhammadUsmanGM/NewsLetter)
-Automated newsletter platform with n8n workflow integration
-- **Tech:** React, Supabase, n8n, Workflow Automation
-- **Features:** Daily automated delivery, subscriber management, AI content curation
-- **[Live Demo](https://news-letter-umber-five.vercel.app/)**
-
-### 💼 [AI-Powered Portfolio](https://github.com/MuhammadUsmanGM/Portfolio)
-Interactive portfolio with intelligent chatbot assistant
-- **Tech:** Next.js, OpenAI Agents SDK, MongoDB
-- **Features:** AI chatbot with custom knowledge base, contact management
-- **[Live Demo](https://portfolio-o4hs.vercel.app/)**
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 **AI & Automation:**
