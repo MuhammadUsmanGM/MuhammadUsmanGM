@@ -88,15 +88,17 @@ Stay updated with the latest trends and insights in AI and automation.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUsmanGM&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MuhammadUsmanGM&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUsmanGM&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=MuhammadUsmanGM&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
