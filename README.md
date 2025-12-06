@@ -1,70 +1,100 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&size=30&duration=4000&color=00B4D8&lines=Hey+there!+👋+I'm+Muhammad+Usman;A+Developer+Who+Loves+to+Build;Agentic+AI+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&size=30&duration=4000&color=00B4D8&lines=Hey+there!+👋+I'm+Muhammad+Usman;AI+Agent+%26+Automation+Developer;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadUsmanGM&color=blue)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuhammadUsmanGM.MuhammadUsmanGM)
 
-
-### 🚀 Backend & Frontend Engineer | AI Agent Builder | Performance-First Developer
-
+### 🚀 AI Agent Developer | Full-Stack Engineer | Automation Specialist
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-- 🔥 Passionate about building high-performance backends with Python, FastAPI, and Uvicorn
+- 🤖 Building intelligent AI agents and automation systems with OpenAI Agents SDK, RAG, and n8n
+- 🔥 Developing full-stack applications with Next.js, React, Python, and FastAPI
+- 🧠 Specialized in RAG systems, vector databases (Qdrant), and workflow automation
+- 💾 Working with MongoDB, Supabase, Neon Postgres for scalable data solutions
+- 🎯 Focused on AI-driven development and autonomous systems
+- 📚 Currently expanding expertise in agentic AI patterns and advanced automation
 
-- 🎨 Crafting modern, responsive interfaces with React, Next.js, and Tailwind CSS
+---
 
-- 🧠 Exploring AI agent development and autonomous systems
+## 🏆 Featured Projects
 
-- 📚 Currently deepening knowledge in Advanced Python, C++, and AI agent architectures
+### 🎓 [AI-Powered Educational Platform](https://github.com/MuhammadUsmanGM/physical-ai-hackathon)
+Interactive textbook with RAG-based chatbot for Physical AI & Robotics education
+- **Tech:** Docusaurus, FastAPI, Qdrant, Google Gemini, Neon Postgres
+- **Features:** RAG chatbot, text selection Q&A, personalized learning, user authentication
+- **[Live Demo](https://muhammadusmangm.github.io/physical-ai-hackathon/)**
 
-- 🛠️ Building lightweight, optimized apps without Streamlit for maximum performance
+### 📧 [AI Newsletter Automation System](https://github.com/MuhammadUsmanGM/NewsLetter)
+Automated newsletter platform with n8n workflow integration
+- **Tech:** React, Supabase, n8n, Workflow Automation
+- **Features:** Daily automated delivery, subscriber management, AI content curation
+- **[Live Demo](https://news-letter-umber-five.vercel.app/)**
 
-- 🎯 Focused on performance, clean architecture, and solving complex problems
+### 💼 [AI-Powered Portfolio](https://github.com/MuhammadUsmanGM/Portfolio)
+Interactive portfolio with intelligent chatbot assistant
+- **Tech:** Next.js, OpenAI Agents SDK, MongoDB
+- **Features:** AI chatbot with custom knowledge base, contact management
+- **[Live Demo](https://portfolio-o4hs.vercel.app/)**
+
 ---
 
 ## 🛠️ Tech Stack & Tools
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadUsmanGM)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0070F3?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![AI Agent Developer](https://img.shields.io/badge/AI%20Agent-Developer-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white)
-![UV](https://img.shields.io/badge/UV-High%20Performance-00BFA6?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Chainlit-FF4B4B?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-5C2D91?style=for-the-badge&logo=protocolbuffers&logoColor=white)
-![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+**AI & Automation:**
+![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agent Developer](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-00BFA6?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+
+**Frontend:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases:**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-5C2D91?style=for-the-badge)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white)
 
 ---
 
 ## 🌍 Let's Connect
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:mu.ai.dev@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://portfolio-o4hs.vercel.app/)
 
-
----
-
-## 📰 Subscribe to Newsletter  
-Stay updated with the latest trends and breakthroughs in the **AI industry**.  
-No spam — just valuable insights and updates!  
-
-[![Subscribe](https://img.shields.io/badge/Subscribe-Now-blue?style=for-the-badge&logo=gmail)](https://news-letter-umber-five.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadusman-ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://portfolio-o4hs.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:muhammadusman5965etc@gmail.com)
 
 ---
 
-## 📊 Most Used Languages
+## 📰 Subscribe to My AI Newsletter
+
+Stay updated with the latest trends and insights in AI and automation.
+
+[![Subscribe Now](https://img.shields.io/badge/Subscribe-Now-blue?style=for-the-badge&logo=gmail)](https://news-letter-umber-five.vercel.app/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUsmanGM&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MuhammadUsmanGM&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 📈 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&theme=radical&layout=compact)
 
@@ -74,25 +104,12 @@ No spam — just valuable insights and updates!
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=MuhammadUsmanGM&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)
 
+---
+
+> _"Building autonomous systems that think, learn, and act."_ 🤖✨
 
 ---
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUsmanGM&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MuhammadUsmanGM&theme=tokyonight" width="48%" />
-</p>
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&size=26&duration=4000&color=00FF7F&lines=🤖+AI+Agent+Developer;⚡+Automation+Specialist;💻+Full-Stack+Engineer;🚀+Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 ---
-
-
-> _“Great code is poetry in motion.”_ ✨
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&size=26&duration=4000&color=00FF7F&lines=🚀+Backend+Engineer;🤖+AI+Agent+Builder;💻+Frontend+Developer+(React+%26+Next.js);⚡+Performance-First+Developer)](https://git.io/typing-svg)
-
