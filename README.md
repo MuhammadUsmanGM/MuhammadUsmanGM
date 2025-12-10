@@ -74,9 +74,7 @@ Stay updated with the latest trends and insights in AI and automation.
 
 ## 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=tokyonight" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&langs_count=8&layout=normal)](https://github.com/MuhammadUsmanGM)
 
 ---
 
