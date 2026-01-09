@@ -67,7 +67,7 @@ Stay updated with the latest trends and insights in AI and automation.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUsmanGM&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=MuhammadUsmanGM&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.vercel.app/?user=MuhammadUsmanGM&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats" width="48%" />
 </p>
 
 ---
