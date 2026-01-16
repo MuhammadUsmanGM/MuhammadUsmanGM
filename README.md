@@ -66,19 +66,19 @@ Stay updated with the latest trends and insights in AI and automation.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUsmanGM&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadUsmanGM&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://streak-stats.vercel.app/?user=MuhammadUsmanGM&theme=tokyonight" width="48%" />
 </p>
 
 ## 📈 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=dark)](https://github.com/MuhammadUsmanGM)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=MuhammadUsmanGM&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=MuhammadUsmanGM&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)[![trophy](https://github-trophies.vercel.app/?username=MuhammadUsmanGM&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
