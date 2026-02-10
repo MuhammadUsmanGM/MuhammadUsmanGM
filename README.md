@@ -54,13 +54,12 @@
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:muhammadusman5965etc@gmail.com)
 
 ---
-
 ## 📡 AI Newsletter — The Signal
 
 Weekly distillation of what matters in AI: model releases, research breakthroughs, and practical applications.
 No hype. Just signal.
 
-[![Subscribe](https://img.shields.io/badge/Subscribe-The%20Signal-0A0A0A?style=for-the-badge&logo=substack&logoColor=white)](https://news-letter-umber-five.vercel.app/)
+[![Subscribe](https://img.shields.io/badge/Subscribe-The%20Signal-10B981?style=for-the-badge&logo=substack&logoColor=white)](https://news-letter-umber-five.vercel.app/)
 
 ---
 
