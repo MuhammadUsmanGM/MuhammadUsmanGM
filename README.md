@@ -55,11 +55,12 @@
 
 ---
 
-## 📰 Subscribe to My AI Newsletter
+## 📡 AI Newsletter — The Signal
 
-Stay updated with the latest trends and insights in AI and automation.
+Weekly distillation of what matters in AI: model releases, research breakthroughs, and practical applications.
+No hype. Just signal.
 
-[![Subscribe Now](https://img.shields.io/badge/Subscribe-Now-blue?style=for-the-badge&logo=gmail)](https://news-letter-umber-five.vercel.app/)
+[![Subscribe](https://img.shields.io/badge/Subscribe-The%20Signal-0A0A0A?style=for-the-badge&logo=substack&logoColor=white)](https://news-letter-umber-five.vercel.app/)
 
 ---
 
