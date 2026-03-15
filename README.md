@@ -94,7 +94,7 @@ No hype. Just signal.
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=MuhammadUsmanGM&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)[![trophy](https://github-trophies.vercel.app/?username=MuhammadUsmanGM&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=MuhammadUsmanGM&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
