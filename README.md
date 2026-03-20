@@ -101,7 +101,3 @@ No hype. Just signal.
 > _"Building autonomous systems that think, learn, and act."_ 🤖✨
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&size=26&duration=4000&color=00B4D8&lines=Full-Stack+AI+Engineer;LLM+Pipelines+·+Autonomous+Agents+·+Rust+Systems;I+build+AI+that+executes,+not+just+responds;FerrumDB+·+ELYX+·+The+Signal)](https://git.io/typing-svg)
-
----
