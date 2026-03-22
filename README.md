@@ -88,7 +88,7 @@ No hype. Just signal.
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&exclude_repo=AI-ML-Intern-DeveloperHub.co,AI-Intern-DeveloperHub.co,CPP-Learning)
 
 ---
 
