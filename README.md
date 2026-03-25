@@ -86,9 +86,11 @@ No hype. Just signal.
   <img src="https://streak-stats.vercel.app/?user=MuhammadUsmanGM&theme=tokyonight" width="48%" />
 </p>
 
+---
+
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&exclude_repo=AI-ML-Intern-DeveloperHub.co,AI-Intern-DeveloperHub.co,CPP-Learning)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanGM&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true&exclude_repo=AI-ML-Intern-DeveloperHub.co,AI-Intern-DeveloperHub.co,CPP-Learning)
 
 ---
 
