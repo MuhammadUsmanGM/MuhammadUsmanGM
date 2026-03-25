@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&size=28&duration=4000&color=00B4D8&lines=Muhammad+Usman;Full-Stack+AI+Engineer;LLM+Pipelines+·+Autonomous+Agents+·+Rust+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&size=28&duration=4000&color=00B4D8&lines=Muhammad+Usman;Full-Stack+AI+Engineer;LLM+Pipelines+✦+Autonomous+Agents+✦+Rust+Systems)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadUsmanGM&color=blue)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuhammadUsmanGM.MuhammadUsmanGM)
