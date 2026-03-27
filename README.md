@@ -9,16 +9,29 @@ From a custom Rust embedded database to multi-agent orchestration platforms — 
 
 ---
 
-### ⚡ Full-Stack AI Engineer · LLM Pipelines · Autonomous Agents · Rust Systems
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+### Building systems that *think, ship, and scale.*
 
-- ⚡ Shipped a custom embedded database engine in Rust with O(1) reads/writes, AES-256-GCM encryption, and Python bindings published to PyPI
-- 🤖 Architecting local-first multi-agent systems with model-agnostic LLM routing across OpenAI, Claude, and Gemini APIs
-- 🧠 Specialized in RAG pipelines, autonomous agent architectures, and agentic AI patterns — not prototypes, production systems
-- 🔥 Building full-stack AI products end-to-end: FastAPI backends → vector DBs → React/Next.js frontends → serverless deployment
-- 📡 Running The Signal — an automated AI intelligence pipeline that ingests, summarizes, and delivers global AI news to subscribers
-- 🎯 Currently: Certified Agentic AI Engineer (PIAIC) + Anthropic MCP & Claude Code certified
+I design and deploy production AI infrastructure — from low-level Rust engines to autonomous multi-agent pipelines — end to end, without shortcuts.
+
+&nbsp;
+
+**01 · Systems Engineering**
+Custom embedded database in Rust — O(1) reads/writes, AES-256-GCM encryption, Python bindings on PyPI.
+
+**02 · Agentic AI Architecture**
+Local-first multi-agent systems with model-agnostic LLM routing across OpenAI, Claude, and Gemini. Built for scale, not proof-of-concept.
+
+**03 · RAG & Production AI**
+RAG pipelines and autonomous agent architectures built for real workloads — not demos, not prototypes.
+
+**04 · Full-Stack Delivery**
+FastAPI → vector DBs → React/Next.js → serverless. I own the entire stack.
+
+&nbsp;
+
+`Certified Agentic AI Engineer (PIAIC)` &nbsp;·&nbsp; `Anthropic MCP` &nbsp;·&nbsp; `Claude Code`
 
 ---
 
