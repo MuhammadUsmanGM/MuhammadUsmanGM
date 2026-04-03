@@ -9,35 +9,16 @@ From a custom Rust embedded database to multi-agent orchestration platforms — 
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### Building systems that *think, ship, and scale.*
 
 I design and deploy production AI infrastructure — from low-level Rust engines to autonomous multi-agent pipelines — end to end, without shortcuts.
 
-<br>
-
-| | |
-|---|---|
-| **01 · Systems Engineering** | Custom embedded database in Rust — O(1) reads/writes, AES-256-GCM encryption, Python bindings on PyPI. |
-| **02 · Agentic AI Architecture** | Local-first multi-agent systems with model-agnostic LLM routing across OpenAI, Claude, and Gemini. Built for scale, not proof-of-concept. |
-| **03 · RAG & Production AI** | RAG pipelines and autonomous agent architectures built for real workloads — not demos, not prototypes. |
-| **04 · Full-Stack Delivery** | FastAPI → vector DBs → React/Next.js → serverless. I own the entire stack. |
-
-<br>
-
-`Certified Agentic AI Engineer (PIAIC)` &nbsp;·&nbsp; `Anthropic MCP` &nbsp;·&nbsp; `Claude Code`
-
-</td>
-<td valign="top" align="center" width="45%">
-
-<img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
-</td>
-</tr>
-</table>
+- 🔩 **Systems Engineering** — Custom embedded DB in Rust. O(1) reads/writes, AES-256-GCM encryption, Python bindings on PyPI.
+- 🤖 **Agentic AI Architecture** — Local-first multi-agent systems with model-agnostic LLM routing across OpenAI, Claude, and Gemini.
+- 🧠 **RAG & Production AI** — Pipelines and agent architectures built for real workloads — not demos, not prototypes.
+- 🚀 **Full-Stack Delivery** — FastAPI → vector DBs → React/Next.js → serverless. I own the entire stack.
 
 ---
 
