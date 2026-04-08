@@ -9,7 +9,7 @@ From a custom Rust embedded database to multi-agent orchestration platforms — 
 
 ---
 
-<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" /> 
 
 ### Building systems that *think, ship, and scale.*
 
