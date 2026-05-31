@@ -3,6 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadUsmanGM&color=blue)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuhammadUsmanGM.MuhammadUsmanGM)
 
+
 **I build AI systems that execute, not just respond.**  
 Specializing in autonomous agent architectures, RAG pipelines, and high-performance backend systems.  
 From a custom Rust embedded database to multi-agent orchestration platforms — I work at the intersection of systems engineering and applied AI.
