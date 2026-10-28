@@ -12,7 +12,7 @@
 
 ---
 
-### 👋 Hi, I'm Usman
+### 👋 Hi, I'm Muhammad Usman
 
 I build **intelligent AI applications** and **high-performance backends** that solve real problems.
 
